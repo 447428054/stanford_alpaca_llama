@@ -7,6 +7,10 @@
 # Introduction
 When I followed the steps, I encountered many installation problems of the Transformer package, so I stripped the LLAMA class from the Transformer. When the project is installed, only transformers==4.26.1 needs to be installed.
 
+
+
+
+
 # Stanford Alpaca: An Instruction-following LLaMA Model 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE) 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
